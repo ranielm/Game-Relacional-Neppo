@@ -1,2 +1,2 @@
-# Game-Relacional-Neppo
-Um aplicação baseada em quiz feita em Java para que os membros das equipes dentro da Neppo possuem se conhecer e interagir melhor entre si.
+# Game Relacional Neppo
+Uma aplicação Java usando gamificação para melhorar o relacionamento interpessoal entre os funcionários da empresa para que possam trabalhar melhor em equipe.
